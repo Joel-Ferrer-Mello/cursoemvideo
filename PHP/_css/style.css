@@ -1,0 +1,51 @@
+html {
+	background-color: #f7f7f7;
+}
+a {
+	padding: 1rem;
+	color: 	#A020F0;
+}
+a:hover {
+  color: #FFA500;
+  font-weight: bold;
+}
+.dbody {
+	background-color: #3b5998;
+	min-height: 18rem;
+	padding: 3rem;
+	text-align: center;
+	font-size: 2rem;
+	color: 	#ffffff;
+}
+.personal {
+	background-color: #8b9dc3;
+	min-height: 4rem;
+	padding: 2rem;
+	text-align: center;
+	font-size: 2rem;
+	color: 	#ffffff;
+}
+.operators {
+	background-color: #dfe3ee;
+	min-height: 12rem;
+	padding: 1rem;
+	text-align: center;
+	font-size: 2rem;
+	color: #3b5998;
+}
+.botao {
+	background-color: orange;
+	padding: 0.5rem;
+	margin-right: 0.3rem;
+	text-align: center;
+	font-size: 2rem;
+	color: #3b5998;
+	border-radius: 5%;
+}
+.botao:hover {
+	background-color: white;
+	border-color: orange;
+ 	color: orange;
+  	font-weight: lighter;
+}
+.dbo

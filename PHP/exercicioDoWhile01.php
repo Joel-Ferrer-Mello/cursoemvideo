@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="_css/style.css">
+		<meta charset="UTF-8"/>
+		<title>Exemplos em PHP</title>
+	</head>
+	<body class="dbody">
+		<h1 style="color: white">Exercício:</h1>
+		<h5 style="color: white">Mostrar e calcular o FATORIAL de um número</h5>
+		<div class="operators">
+			<form method="get" action="exercicioFatorialform.php">
+				<?php
+					echo "Valor: <input type='number' name='vNumber' max='100'/> <br/>";
+					
+				?>
+				<br/><input type="submit" class="botao" value="Enviar"/>
+			</form>
+		</div>
+	</body>	
+</html>
